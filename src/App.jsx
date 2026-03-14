@@ -35,7 +35,7 @@ export default function App() {
   const [error, setError] = useState("");         // error message if something goes wrong
 
   // Your OpenWeather API Key — paste yours here!
-  const API_KEY = "a5d0808e8caa64d654870f56a75507d4";
+  const API_KEY = "YOUR_API_KEY_HERE";
 
   // ==========================================================
   // REACT CONCEPT #4: Regular Functions inside components
